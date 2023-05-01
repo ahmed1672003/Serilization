@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33617.297
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serilization.Api", "Serilization.Api\Serilization.Api.csproj", "{FBAE50EA-AE2B-4DAA-A15E-C7F2E4414923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBAE50EA-AE2B-4DAA-A15E-C7F2E4414923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAE50EA-AE2B-4DAA-A15E-C7F2E4414923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAE50EA-AE2B-4DAA-A15E-C7F2E4414923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAE50EA-AE2B-4DAA-A15E-C7F2E4414923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A42DFBC-A7DA-4D5E-85CD-93969DAE7CB9}
+	EndGlobalSection
+EndGlobal
